@@ -15,7 +15,7 @@ namespace WindowsFormsApp5
 {
     public partial class Form1 : Form
     {   
-        //Creating global variable
+        //Creating global variable//
         class Global
         {
             public static string filename;
